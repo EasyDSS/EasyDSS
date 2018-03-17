@@ -27,7 +27,7 @@ EasyDSS商用流媒体服务器是EasyDarwin流媒体团队开发的一款支持
 
 ## EasyDSS生态 ##
 
-- EasyDSS-Solution
+- EasyBMS
 
 - EasyNVR
 
