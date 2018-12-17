@@ -37,8 +37,6 @@ EasyDSS商用流媒体服务器是EasyDarwin流媒体团队开发的一款支持
 
 - 邮件：[support@easydarwin.org](mailto:support@easydarwin.org) 
 
-- Tel：13718530929
-
 - QQ交流群：[538316953](https://jq.qq.com/?_wv=1027&k=5ovcEOi "EasyDSS")
 
 > **我们同时提供Windows、Linux版本的EasyDSS高性能流媒体服务器**：EasyDSS流媒体服务器商业使用需要经过授权才能永久使用，商业授权方案可以通过以上渠道进行更深入的技术与合作咨询；
